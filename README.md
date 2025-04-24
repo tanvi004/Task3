@@ -1,1 +1,3 @@
 # Task3
+For this task, I used SQL to explore and analyze a Netflix dataset. I started with simple queries to find shows released after a certain year, helping spot recent trends. Then, I grouped data by country to see which regions produce the most content. I also used subqueries to highlight shows that were released after the average release year. To focus on TV shows, I created a view that filtered entries with “Seasons” in the duration. Finally, I ran a targeted query for U.S. shows from 2019 to show how filtering and indexing can speed up searches. Overall, it was a hands-on exercise in writing clean, effective SQL queries like those used in real-world data analysis.
+
